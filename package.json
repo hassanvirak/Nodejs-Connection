@@ -1,0 +1,25 @@
+{
+  "name": "nodejsconnection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanvirak/Nodejs-Connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hassanvirak/Nodejs-Connection/issues"
+  },
+  "homepage": "https://github.com/hassanvirak/Nodejs-Connection#readme",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "mongoose": "^9.11.1"
+  }
+}

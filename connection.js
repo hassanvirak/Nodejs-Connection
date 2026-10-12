@@ -24,3 +24,6 @@ async function connectToDatabase() {
         console.log(error.message);
     }
 }
+
+// Function ko call karna zaroori hai
+connectToDatabase();
